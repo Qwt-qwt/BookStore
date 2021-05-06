@@ -84,7 +84,5 @@
         <input type="button" id="btn_register" class="btn btn-primary" value="注册"/>
     </div>
 </div>
-
-
 </body>
 </html>
